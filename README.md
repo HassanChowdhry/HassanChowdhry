@@ -20,6 +20,9 @@ I am a university student who has a passion for :
 **_Tools_** :
 <a href ="https://github.com/" target = "_blank"> <img src ="https://www.vectorlogo.zone/logos/github/github-icon.svg" title = "github" alt = "GitHUb" width ="40" height = "40"/> </a><a href ="https://git-scm.com/" target = "_blank"> <img src ="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title = "git"  alt = "Git" width ="40" height = "40"/> </a><a href ="https://www.postman.com/" target = "_blank"> <img src ="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title = "postman" alt = "PostMan" width ="40" height = "40"/> </a>
 
+**_Cloud_** :
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/94680098/209210513-f59cc935-b506-4979-b3e3-9eebad9eb2bb.png" title="AWS" alt="AWS-img" width="40" height="40"> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase-img" width="40" height="40"> </a>
+
 **_OS_** : 
 <a href ="https://www.microsoft.com/en-us/windows?wa=wsignin1.0" target = "_blank"> <img src ="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_microsoft_windows-512.png" title = "Windows" alt = "windows" width ="40" height = "40"/> </a><a href ="https://www.linux.org/" target = "_blank"> <img src ="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title = "Linux" alt = "Linux" width ="40" height = "40"/> </a><a href ="https://www.apple.com/macos/monterey/" target = "_blank"> <img src ="https://user-images.githubusercontent.com/94680098/207988965-4f188c70-c857-40fa-8abb-40cc98efcc98.png" title = "MacOS" alt = "mac" width ="40" height = "40"/> </a>
 
