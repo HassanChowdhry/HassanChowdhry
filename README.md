@@ -4,7 +4,6 @@ I am a university student who has a passion for :
 - programming💻
 - football⚽
 - gym🏋
-- gaming🎮
 
 ### My Teck Stack: ###
 
