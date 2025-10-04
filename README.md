@@ -1,7 +1,7 @@
 # Hi there!👋👋
 
 ## What am I currently doing?
-- 4th year Computer Science (CGPA 4.24/4.3) at Dalhousie University  
+- 4th year Computer Science at Dalhousie University  
 - Undergraduate Researcher working on Agentic AI & Deep Reinforcement Learning for Cybersecurity
 - Head Teaching Assistant for courses like Data Structures & Algorithms, Server-Side Programming, Web Development, and Robotics  
 - President of the Dalhousie Muslim Student Association, Vice President of the Computer Science Leaders Society  
