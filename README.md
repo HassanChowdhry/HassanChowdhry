@@ -3,10 +3,13 @@
 ## What am I currently doing?
 - 4th year Computer Science at Dalhousie University  
 - Undergraduate Researcher working on Agentic AI & Deep Reinforcement Learning for Cybersecurity
-- Head Teaching Assistant for courses like Data Structures & Algorithms, Server-Side Programming, Web Development, and Robotics  
-- President of the Dalhousie Muslim Student Association, Vice President of the Computer Science Leaders Society  
+- Head Teaching Assistant for courses like Server-Side Programming
+- Teaching Assistant for courses like Data Structures & Algorithms, Web Development, and Robotics  
+- President of the Dalhousie Muslim Student Association
+- Co-Founder & Co-President of the Computer Science Leaders Society  
 
 ## Some recognitions
+- Gold Medal (1st Place), ICPC Atlantic 2025
 - NSERC/FCS USRA Research Award  
 - 3rd Place, ICPC NENA 2024 Atlantic Region  
 - Top 2% (Knight) on LeetCode
