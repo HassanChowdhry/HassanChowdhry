@@ -1,6 +1,9 @@
 # Hi there!👋👋
 
 ## What am I currently doing?
+- Interning @ Activision!
+
+## What I've done
 - 4th year Computer Science at Dalhousie University  
 - Undergraduate Researcher working on Agentic AI & Deep Reinforcement Learning for Cybersecurity
 - Head Teaching Assistant for courses like Server-Side Programming
