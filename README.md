@@ -3,9 +3,11 @@
 ## What am I currently doing?
 - Research on AI Safety!
 
-## Prev SWE Intern?
-- Activision
-- Synopsys
+## Prev?
+- SWE @ Activision
+- SWE @ Synopsys
+- Research @ Dalhousie
+- ICPC 2024/2025
  
 ## Contact
 
