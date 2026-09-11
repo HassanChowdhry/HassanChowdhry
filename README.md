@@ -1,7 +1,11 @@
 # Hi there!👋👋
 
 ## What am I currently doing?
-- Interning @ Activision!
+- Research on AI Safety!
+
+## Prev SWE Intern?
+- Activision/Demonware
+- Synopsys/Ansys
  
 ## Contact
 
