@@ -4,8 +4,8 @@
 - Research on AI Safety!
 
 ## Prev SWE Intern?
-- Activision/Demonware
-- Synopsys/Ansys
+- Activision
+- Synopsys
  
 ## Contact
 
