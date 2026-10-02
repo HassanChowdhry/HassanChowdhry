@@ -4,7 +4,7 @@
 - Research on AI Safety!
 
 ## Prev?
-- SWE @ Activision
+- SWE @ Microsoft
 - SWE @ Synopsys
 - Research @ Dalhousie
 - ICPC 2024/2025
